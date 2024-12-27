@@ -2,7 +2,7 @@
 **wothmag07/wothmag07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi 👋, I'm Gowtham Arulmozhi</h1>
-<h3 align="center">A visionary tech architect with ML aspirations.</h3>
+<h3 align="center">A seasoned tech architect with ML aspirations.</h3>
 <p align="center"> Welcome to my GitHub profile! </br> Here, you'll find a glimpse of my projects, interests, and contributions to the tech community. </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">

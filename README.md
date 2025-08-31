@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Gowtham!
-- Previously as DevOps Engineer at National Payments Corporation of India.
+- Previously as Software Engineer at National Payments Corporation of India.
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-arulmozhi)
